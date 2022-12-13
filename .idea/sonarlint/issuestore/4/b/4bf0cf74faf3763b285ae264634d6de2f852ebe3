@@ -1,0 +1,12 @@
+
+R
+java:S4973"<Strings and Boxed types should be compared using "equals()".(Ö†âä
+;
+java:S2129" Remove this "String" constructor(ÍÄÄıúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ö†âä
+F
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+C
+java:S1128".Remove this unused import 'java.util.HashSet'.(Ê‚êX
+E
+java:S1128"*Remove this unused import 'java.util.Set'.(ö²„¤şÿÿÿÿ

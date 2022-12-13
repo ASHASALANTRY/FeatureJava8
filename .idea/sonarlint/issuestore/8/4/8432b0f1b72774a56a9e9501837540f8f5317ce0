@@ -1,0 +1,77 @@
+
+E
+java:S3740"/Provide the parametrized type for this generic.(±øä
+E
+java:S3740"/Provide the parametrized type for this generic.(ßàõ
+E
+java:S3740,"/Provide the parametrized type for this generic.(öÍãœ
+E
+java:S3740,"/Provide the parametrized type for this generic.(öÍãœ
+J
+java:S37403"/Provide the parametrized type for this generic.(‹œš©ıÿÿÿÿ
+J
+java:S37403"/Provide the parametrized type for this generic.(‹œš©ıÿÿÿÿ
+J
+java:S3740B"/Provide the parametrized type for this generic.(‚Ğ©»ıÿÿÿÿ
+J
+java:S3740I"/Provide the parametrized type for this generic.(¤Û­£şÿÿÿÿ
+J
+java:S3740U"/Provide the parametrized type for this generic.(ù£ªüÿÿÿÿ
+J
+java:S3740U"/Provide the parametrized type for this generic.(ù£ªüÿÿÿÿ
+E
+java:S3740["/Provide the parametrized type for this generic.(ÔœçÙ
+J
+java:S3740\"/Provide the parametrized type for this generic.(á‚•Óúÿÿÿÿ
+D
+java:S3740`"/Provide the parametrized type for this generic.(œ€´{
+E
+java:S3740f"/Provide the parametrized type for this generic.(Š“˜“
+E
+java:S3740p"/Provide the parametrized type for this generic.(®Ïù¨
+F
+java:S3740Š"/Provide the parametrized type for this generic.(È˜Ú
+F
+java:S3740Š"/Provide the parametrized type for this generic.(È˜Ú
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ßàõ
+W
+java:S4973"<Strings and Boxed types should be compared using "equals()".( şùıÿÿÿÿ
+o
+java:S1210"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(‡ÕÔÏ
+V	java:S125&"<This block of commented-out lines of code should be removed.(Õ†›èùÿÿÿÿ
+R
+java:S1854B"7Remove this useless assignment to local variable "lis".(‚Ğ©»ıÿÿÿÿ
+S	java:S1065"9Replace this use of System.out or System.err by a logger.(‡îÁÂùÿÿÿÿ
+N	java:S1069"9Replace this use of System.out or System.err by a logger.(÷ğåŸ
+N	java:S106;"9Replace this use of System.out or System.err by a logger.(÷ğåŸ
+S	java:S106="9Replace this use of System.out or System.err by a logger.(‡îÁÂùÿÿÿÿ
+S	java:S106@"9Replace this use of System.out or System.err by a logger.(‡îÁÂùÿÿÿÿ
+C
+java:S1481B"(Remove this unused "lis" local variable.(‚Ğ©»ıÿÿÿÿ
+S	java:S106F"9Replace this use of System.out or System.err by a logger.(³²ó¹ûÿÿÿÿ
+S	java:S106N"9Replace this use of System.out or System.err by a logger.(Ñ€Üëıÿÿÿÿ
+S	java:S106P"9Replace this use of System.out or System.err by a logger.(ï¢¬åúÿÿÿÿ
+Q
+java:S1854\"6Remove this useless assignment to local variable "s1".(á‚•Óúÿÿÿÿ
+S	java:S106Z"9Replace this use of System.out or System.err by a logger.(›òŒØøÿÿÿÿ
+B
+java:S1481\"'Remove this unused "s1" local variable.(á‚•Óúÿÿÿÿ
+S	java:S106]"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ
+N	java:S106^"9Replace this use of System.out or System.err by a logger.(Ê—²²
+S	java:S106_"9Replace this use of System.out or System.err by a logger.(ê§Ò€ıÿÿÿÿ
+S	java:S106e"9Replace this use of System.out or System.err by a logger.(Ë°—Æÿÿÿÿÿ
+N	java:S106i"9Replace this use of System.out or System.err by a logger.(”Å˜
+Q	java:S125k"<This block of commented-out lines of code should be removed.(ü‡‘ï
+N	java:S106v"9Replace this use of System.out or System.err by a logger.(†´ºê
+S	java:S106w"9Replace this use of System.out or System.err by a logger.(üñ±Ûÿÿÿÿÿ
+S	java:S106y"9Replace this use of System.out or System.err by a logger.(ß¸›ÿÿÿÿÿ
+O	java:S106‡"9Replace this use of System.out or System.err by a logger.(úüÆ×
+R	java:S125…"<This block of commented-out lines of code should be removed.(è©ö’
+T	java:S106‰"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ
+O	java:S106"9Replace this use of System.out or System.err by a logger.(Î’ÛÚ
+F
+java:S1197"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ
+R	java:S125‘"<This block of commented-out lines of code should be removed.(ß¤”š
+Y	java:S125“"<This block of commented-out lines of code should be removed.(àò°8íƒĞ´0
+^
+java:S1128"CRemove this unused import 'java.util.concurrent.ConcurrentHashMap'.(ÓŠÓøúÿÿÿÿ

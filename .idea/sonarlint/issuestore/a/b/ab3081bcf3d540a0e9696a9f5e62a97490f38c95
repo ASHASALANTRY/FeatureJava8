@@ -1,0 +1,24 @@
+
+E
+java:S3740
+"/Provide the parametrized type for this generic.(®Ş“Ã
+E
+java:S3740"/Provide the parametrized type for this generic.( ÁÌ‰
+J
+java:S3740"/Provide the parametrized type for this generic.(ñ İ€úÿÿÿÿ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¾ô‘
+A
+java:S1481"&Remove this unused "z" local variable.(®¡Ñøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(—Ğµ’ıÿÿÿÿ
+P	java:S125"<This block of commented-out lines of code should be removed.(ŠN
+S	java:S106"9Replace this use of System.out or System.err by a logger.(›¥İÒûÿÿÿÿ
+J
+java:S1611"/Remove the parentheses around the "t" parameter(„¦‰‹üÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¤¸¤ûÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(ß¼ø„
+E
+java:S1197"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ
+J
+java:S1611""/Remove the parentheses around the "t" parameter(ı­ÑÏıÿÿÿÿ
+A
+java:S1481#"&Remove this unused "i" local variable.(¨Û•¨üÿÿÿÿ

@@ -1,0 +1,22 @@
+
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¬–˜üþÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(­‘ Çûÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(¨×Ö
+V	java:S125"<This block of commented-out lines of code should be removed.(Ø¾Ï³þÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(Æ÷¢§üÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(Ö«ä
+V	java:S125$"<This block of commented-out lines of code should be removed.(’Š¦¯ÿÿÿÿÿ
+V	java:S125'"<This block of commented-out lines of code should be removed.(æÀö€øÿÿÿÿ
+W	java:S125+"<This block of commented-out lines of code should be removed.(ÆëÄ>8ƒ÷¢Ò´0
+J
+java:S1611,"/Remove the parentheses around the "t" parameter(º¶šÊøÿÿÿÿ
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(º¶šÊøÿÿÿÿ
+X	java:S125."<This block of commented-out lines of code should be removed.(Ÿ±ìò8È•¢Ò´0
+g
+java:S42766"QRefactor this code to use the more specialised Functional Interface 'IntConsumer'(ÄÚžö
+N	java:S1069"9Replace this use of System.out or System.err by a logger.(Ï¤ã¬
+E
+java:S1128"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ
+^
+java:S1128"CRemove this unused import 'java.util.concurrent.ConcurrentHashMap'.(ÓŠÓøúÿÿÿÿ
